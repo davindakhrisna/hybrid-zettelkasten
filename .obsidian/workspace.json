@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "e29972876294fbab",
+    "type": "split",
+    "children": [
+      {
+        "id": "4784063b834f0db1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae2a89632020e88d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Books.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Books"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "736d7d8af779cc54",
+    "type": "split",
+    "children": [
+      {
+        "id": "c37822a28eb5acdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06a3870e93190820",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "974fab1d5082573e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9a514891d6d547c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6287382b1bf1fd17",
+    "type": "split",
+    "children": [
+      {
+        "id": "5edacdb13512b6ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec3976481d50973d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-Inbox/Books.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9a2ecb14234ee1df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-Inbox/Books.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1461040af71cd788",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17edafc4bcf040a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2668ac40d6f17d3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-Inbox/Books.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "ae2a89632020e88d",
+  "lastOpenFiles": [
+    "00-Inbox/Experience.md",
+    "00-Inbox/Books.md",
+    "01-Courses/Algorithm/00-Table of Content.md",
+    "04-Daily/00-Table of Content.md",
+    "05-Templates/Unique Note (General) - Template.md",
+    "05-Templates/Table of Contents - Template.md",
+    "05-Templates/Inbox - Template.md",
+    "05-Templates/Daily - Template.md",
+    "05-Templates/Archive - Template.md",
+    "06-Archive/00-Table of Content.md",
+    "05-Templates/Base/Archive.base",
+    "05-Templates/Base/Weekly.base",
+    "05-Templates/Base/TableoContent.base",
+    "05-Templates/Base/Inbox.base",
+    "02-Knowledge/06-10-2026-0800.md",
+    "04-Daily/06-10-2026.md",
+    "04-Daily/20-10-2006.md",
+    "06-10-2026.md",
+    "02-Knowledge/06-10-2026-0754.md",
+    "02-Knowledge/06-10-2026-0756.md",
+    "02-Knowledge/06-10-2026-0755.md",
+    "02-Knowledge/07-10-2026.md",
+    "2006-10-20.md",
+    "2026-10-06.md",
+    "02-Knowledge/06-10-2026.md",
+    "Invalid date.md",
+    "00-Inbox/Reflections.md",
+    "00-Inbox/Place.md",
+    "00-Inbox/People.md",
+    "00-Inbox/Games.md",
+    "01-Courses/Database System",
+    "01-Courses/Algorithm",
+    "01-Courses/Data Structure",
+    "01-Courses/Compiler Design",
+    "01-Courses/Software Analysis",
+    "01-Courses/Probability"
+  ]
+}
