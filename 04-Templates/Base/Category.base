@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.hasTag(this.file.name)
+    - '!file.inFolder("04-Templates")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - aliases
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 176
+      note.aliases: 174

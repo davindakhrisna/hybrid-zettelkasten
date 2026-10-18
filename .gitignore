@@ -1,0 +1,12 @@
+# Obsidian workspace, state & cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Local tooling & extraction
+graphify-out/
+
+# OS metadata
+.DS_Store
+Thumbs.db

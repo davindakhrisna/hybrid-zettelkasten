@@ -4,6 +4,6 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "date": "text",
-    "Week": "number"
+    "archive": "checkbox"
   }
 }

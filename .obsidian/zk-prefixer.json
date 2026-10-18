@@ -1,5 +1,5 @@
 {
-  "folder": "02-Knowledge",
-  "template": "05-Templates/Unique Note (General) - Template.md",
-  "format": "DD-MM-YYYY-hhmm"
+  "folder": "02-Inbox",
+  "template": "04-Templates/Unique Note (General) - Template.md",
+  "format": "YYYY-MM-DD-HHmm"
 }

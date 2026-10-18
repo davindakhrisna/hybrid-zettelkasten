@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.folder == this.file.folder
+    - file.name != this.file.name
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - aliases
+      - date
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 98
+      note.aliases: 272

@@ -1,5 +1,6 @@
 {
-  "folder": "04-Daily",
-  "template": "05-Templates/Daily - Template.md",
-  "format": "DD-MM-YYYY"
+  "folder": "03-Logging",
+  "template": "04-Templates/Daily - Template.md",
+  "format": "YYYY-MM-DD",
+  "autorun": true
 }

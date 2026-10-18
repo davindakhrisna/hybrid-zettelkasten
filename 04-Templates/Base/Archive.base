@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.inFolder("03-Logging")
+    - file.hasProperty("archive")
+    - archive == true
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - aliases
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 176
+      note.aliases: 174
